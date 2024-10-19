@@ -1,7 +1,5 @@
 # Real Estate NFT DApp
 
-YouTube Walkthrough link:
-
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
